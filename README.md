@@ -31,3 +31,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://www.youtube.com/watch?v=O26fDEnAukY&list=PLNCSWIsR6ADJbC6nFtvk_-IhfRSJGBlMH&index=2&ab_channel=FernandaKipper%7CDev
 
 https://www.figma.com/file/JbHAcivlz9PqqnWfzoZU8W/Portfolio---LIVE-Angular?type=design&node-id=2265-60&mode=design&t=Q9LKUSP5pHd4Yg5i-0
+
+https://metal-flea-041.notion.site/LIVE-Landing-Page-com-Angular-v17-5dc4ff8876114da9960e60ffc280ca35
